@@ -9,7 +9,7 @@ const thirteenStrings = consts.thirteenStrings;
 
 /**
  * @param n {number} The number to compare but also sometimes not a number but not not !NaN
- * @returns {object}
+ * @returns {object} test
  */
 var is = function is(x) {
     // the next line calls the noop function
