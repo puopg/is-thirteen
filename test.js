@@ -1,6 +1,6 @@
 'use strict';
 
-//fuck
+// fuck update
 const tap = require('tap');
 const is = require('./');
 
