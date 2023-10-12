@@ -1,5 +1,6 @@
 'use strict';
 
+//fuck
 const tap = require('tap');
 const is = require('./');
 
